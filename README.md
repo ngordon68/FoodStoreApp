@@ -7,3 +7,6 @@ The Food store app was made back in the foundations program at the apple develop
 
 10/30/22
 I recently learned about the Retain Cycle and various ways to check for memory leaks. I decided to double check the objects in my project using the memory map and running the simulation to detech any possible memory leaks. Fornatuately there was no memory leaks to the best of my knowledge.
+
+
+#What I Learned
