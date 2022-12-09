@@ -9,13 +9,8 @@
 
 # 01 OverView
 The Food store app was made back in the foundations program at the Apple Developer Academy which lasted for a month. Me and 2 other teammmates design the page layouts, colorscheme, and inteded functionality we wanted our app to do. I decided to add additionaly functionality by adding an accountSettings page and a locationpage which I utlized the Mapkit features that I learned. This project goes over the swift and swift ui basics. I was able to create a inventory and cart struct which help with the functionality of the app.
+
 <img width="374" alt="Screenshot 2022-12-09 at 5 54 12 PM" src="https://user-images.githubusercontent.com/102773701/206808638-ca8a56a6-5da0-4bb9-ad7b-6553a3885099.png">
-
-
-
-https://user-images.githubusercontent.com/102773701/206809896-aca6f0f7-28e2-479c-8780-f6b1bf120380.mp4
-
-
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/102773701/206811404-601c0e37-14a5-4c46-8915-23c0f99d24f7.gif)
 
