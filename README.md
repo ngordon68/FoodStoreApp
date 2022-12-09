@@ -10,10 +10,10 @@
 # 01 OverView
 The Food store app was made back in the foundations program at the Apple Developer Academy which lasted for a month. Me and 2 other teammmates design the page layouts, colorscheme, and inteded functionality we wanted our app to do. I decided to add additionaly functionality by adding an accountSettings page and a locationpage which I utlized the Mapkit features that I learned. This project goes over the swift and swift ui basics. I was able to create a inventory and cart struct which help with the functionality of the app.
 
-<img width="374" alt="Catalog" src="https://user-images.githubusercontent.com/102773701/206812463-f7c2bbd5-275f-43ee-bf19-ff5f00e77472.png">
-<img width="301" alt="CheckoutView" src="https://user-images.githubusercontent.com/102773701/206812474-1ff16d42-1f62-455d-bac2-b1447037b567.png">
-<img width<img width="311" alt="EndView" src="https://user-images.githubusercontent.com/102773701/206812486-08e3224f-be90-4312-a117-44b246b71355.png">
-="300" alt="Payment Screen" src="https://user-images.githubusercontent.com/102773701/206812481-a7dd72d4-dae7-4253-b617-dacab3e4b7eb.png">
+<img width="374" alt="Catalog" src="https://user-images.githubusercontent.com/102773701/206812463-f7c2bbd5-275f-43ee-bf19-ff5f00e77472.png"> <img width="301" alt="CheckoutView" src="https://user-images.githubusercontent.com/102773701/206812474-1ff16d42-1f62-455d-bac2-b1447037b567.png"> <img width="300" alt="Screenshot 2022-12-09 at 6 33 12 PM" src="https://user-images.githubusercontent.com/102773701/206812559-119e165a-633a-4194-b1a6-28149ca02d31.png"> <img width="311" alt="EndView" src="https://user-images.githubusercontent.com/102773701/206812619-28ae9b60-4265-4c7b-a830-204e9bea0589.png">
+
+
+
 
 
 
