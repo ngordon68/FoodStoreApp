@@ -17,9 +17,6 @@ The Food store app was made back in the foundations program at the Apple Develop
 
 https://user-images.githubusercontent.com/102773701/207052687-01ccff00-1846-495b-a924-6892d39bdf4d.mov
 
-
-
-
 # 02 Coding Topics
 
 - Classes                                           
@@ -29,7 +26,11 @@ https://user-images.githubusercontent.com/102773701/207052687-01ccff00-1846-495b
 - Images
 - NavigationLink                                   
 - MapKit                                                                     
-- String Interpolation                                                                                                                                          
+- String Interpolation   
+
+
+# 03 Project Timeline
+
 
 
 
@@ -43,6 +44,5 @@ I recently learned about the Retain Cycle and various ways to check for memory l
 <img width="299" alt="MapScreen" src="https://user-images.githubusercontent.com/102773701/207046968-44acd752-f86e-4cc6-8547-f3222051f5da.png">
 
 
-# Conclusion
-test
+
 
