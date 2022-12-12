@@ -22,10 +22,14 @@ https://user-images.githubusercontent.com/102773701/207052687-01ccff00-1846-495b
 
 # 02 Coding Topics
 
-- Classes                                           - NavigationLink
-- State Objects/Observable Object                   - MapKit
-- Foreach                                           - String Interpolation
-- Array Appending                                   - Images
+- Classes                                           
+- State Objects/Observable Object                   
+- Foreach                                          
+- Array Appending
+- Images
+- NavigationLink                                   
+- MapKit                                                                     
+- String Interpolation                                                                                                                                          
 
 
 
