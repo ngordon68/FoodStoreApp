@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/102773701/207052687-01ccff00-1846-495b
 
 # 03 Project Timeline
 
-<img width="127" alt="Discover" src="https://user-images.githubusercontent.com/102773701/207078520-16486861-77f5-4d6a-82f5-90394ab3afbc.png"><img width="123" alt="Define" src="https://user-images.githubusercontent.com/102773701/207078528-a5c8042e-1502-44f5-bfbf-6fc0caa7eb5f.png"><img width="120" alt="Develop" src="https://user-images.githubusercontent.com/102773701/207078542-e23bbe67-e769-4de4-be80-e2a78d53a4a7.png"><img width="123" alt="Deliver" src="https://user-images.githubusercontent.com/102773701/207078552-13a1ad70-0ff2-4178-afbd-fe4eea8383cf.png">
+<img width="120" alt="Discover" src="https://user-images.githubusercontent.com/102773701/207078520-16486861-77f5-4d6a-82f5-90394ab3afbc.png"><img width="120" alt="Define" src="https://user-images.githubusercontent.com/102773701/207078528-a5c8042e-1502-44f5-bfbf-6fc0caa7eb5f.png"><img width="120" alt="Develop" src="https://user-images.githubusercontent.com/102773701/207078542-e23bbe67-e769-4de4-be80-e2a78d53a4a7.png"><img width="120" alt="Deliver" src="https://user-images.githubusercontent.com/102773701/207078552-13a1ad70-0ff2-4178-afbd-fe4eea8383cf.png">
 
 
 
