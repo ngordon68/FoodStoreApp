@@ -23,11 +23,13 @@ The Food store app was made back in the foundations program at the Apple Develop
 
 
 
-#02 What I learned
+# 02 What I learned
 
-I recently learned about the Retain Cycle and various ways to check for memory leaks. I decided to double check the objects in my project using the memory map and running the simulation to detech any possible memory leaks. Fornatuately there was no memory leaks to the best of my knowledge. I also decided to add additionaly functionality by adding an account Settings page and a location page which utlized the Mapkit features that I learned on my spare time.
+I recently learned about the Retain Cycle and various ways to check for memory leaks. I decided to double check the objects in my project using the memory map and running the simulation to detech any possible memory leaks. Fornatuately, there was no memory leaks to the best of my knowledge. I also decided to add additional functionality by adding an account Settings page and a location page which utlized the Mapkit features that I learned on my spare time.
 
 <img width="299" alt="MapScreen" src="https://user-images.githubusercontent.com/102773701/207046968-44acd752-f86e-4cc6-8547-f3222051f5da.png">
 
 
 # Conclusion
+
+
