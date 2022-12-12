@@ -1,7 +1,7 @@
 # My Role + Objectives
 
 - Code up a MVP(Mininum Viable Product) of a food store app for Eastern Market
-- Learn and implement Swift and Swiftui 
+- Take Hi-Fi specifications and translate to Xcode app
 - Work with my fellow coder and designer to bring our Hi-Fi prototype to life
 - Test UI and UX through documentation
 - Test code to find any inconsistencies 
