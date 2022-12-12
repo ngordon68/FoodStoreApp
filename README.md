@@ -13,19 +13,11 @@ The Food store app was made back in the foundations program at the Apple Develop
 <img width="374" alt="Catalog" src="https://user-images.githubusercontent.com/102773701/206812463-f7c2bbd5-275f-43ee-bf19-ff5f00e77472.png"> <img width="301" alt="CheckoutView" src="https://user-images.githubusercontent.com/102773701/206812474-1ff16d42-1f62-455d-bac2-b1447037b567.png"> <img width="300" alt="Screenshot 2022-12-09 at 6 33 12 PM" src="https://user-images.githubusercontent.com/102773701/206812559-119e165a-633a-4194-b1a6-28149ca02d31.png"> <img width="311" alt="EndView" src="https://user-images.githubusercontent.com/102773701/206812619-28ae9b60-4265-4c7b-a830-204e9bea0589.png">
 
 
-
-
-
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/102773701/206811404-601c0e37-14a5-4c46-8915-23c0f99d24f7.gif)
-
-
-
 https://user-images.githubusercontent.com/102773701/207052313-df3bf68a-4313-406a-8c9a-95467dbf054f.mov
 
 
 
-https://user-images.githubusercontent.com/102773701/207052334-941cfc74-fb05-4cff-a0ad-8076f17856a7.mov
+
 
 
 
