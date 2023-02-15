@@ -43,5 +43,5 @@ I recently learned about the Retain Cycle and various ways to check for memory l
 
 
 
-![Routerplaceholderimage](https://user-images.githubusercontent.com/102773701/219053231-b5f9952a-0743-4ce8-a9c3-42eab95d5684.png)
+
 
