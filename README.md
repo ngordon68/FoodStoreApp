@@ -18,6 +18,14 @@ The Food store app, an app that connect Eastern Market with local consumers, was
 
 <img width="300px; height: 500px;" alt="Catalog" src="https://user-images.githubusercontent.com/102773701/206812463-f7c2bbd5-275f-43ee-bf19-ff5f00e77472.png">
 
+<img width="300px; height: 500px;" alt="CheckoutView" src="https://user-images.githubusercontent.com/102773701/206812474-1ff16d42-1f62-455d-bac2-b1447037b567.png">
+
+ <img width="300px; height: 500px;" alt="Screenshot 2022-12-09 at 6 33 12 PM" src="https://user-images.githubusercontent.com/102773701/206812559-119e165a-633a-4194-b1a6-28149ca02d31.png">
+ 
+  <img width="300px; height: 500px;" alt="EndView" src="https://user-images.githubusercontent.com/102773701/206812619-28ae9b60-4265-4c7b-a830-204e9bea0589.png">
+
+
+
 <table>
  <tr>
   <td>
